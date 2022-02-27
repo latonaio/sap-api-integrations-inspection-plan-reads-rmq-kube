@@ -1,0 +1,29 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-inspection-plan-reads/SAP_API_Caller/caller.go#L104",
+	"function": "sap-api-integrations-inspection-plan-reads/SAP_API_Caller.(*SAPAPICaller).MaterialAssignment",
+	"level": "INFO",
+	"message": [
+		{
+			"Material": "ELECTRIC FAN",
+			"Plant": "1010",
+			"InspectionPlanGroup": "52000011",
+			"InspectionPlan": "1",
+			"InspPlanMatlAssignment": "1",
+			"InspPlanMatlAssgmtIntVersion": "1",
+			"InspectionPlanInternalVersion": "1",
+			"ValidityStartDate": "2021-02-01T09:00:00+09:00",
+			"ValidityEndDate": "9999-12-31T09:00:00+09:00",
+			"ChangeNumber": "",
+			"CreationDate": "2021-02-01T09:00:00+09:00",
+			"LastChangeDate": "",
+			"IsDeleted": false,
+			"Supplier": "",
+			"Customer": "",
+			"MultipleSpecificationObject": "",
+			"MultipleSpecificationObjType": "",
+			"BOOSearchText": "",
+			"ChangedDateTime": ""
+		}
+	],
+	"time": "2022-01-28T16:41:43+09:00"
+}
